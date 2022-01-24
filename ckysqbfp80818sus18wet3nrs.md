@@ -50,3 +50,7 @@ Network Name: BSC Testnet
 - Symbol: BNB
 - Block Explorer: https://testnet.bscscan.com
 
+Now go deploy your smart contract or use your testnets!
+
+Kindly let me know what you think in the comment sections or just give a clap to this article
+
